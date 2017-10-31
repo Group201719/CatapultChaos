@@ -12,3 +12,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/Base/Controller/C_PlayerController.uasset
+Content/Base/P_PlayerPawn.uasset
